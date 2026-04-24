@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   keywords: ["System Scientist", "Sustainable Fashion", "Marine Biology", "African Heritage", "Nurtree"],
   authors: [{ name: "David Aladejobi" }],
   openGraph: {
-    title: "NURTRĒË | System Scientist",
+    title: "NURTRĒË",
     description: "Translating invisible systems into physical artifacts.",
     url: "https://nurtree.system", // Change to your actual domain later
     siteName: "NURTRĒË",
